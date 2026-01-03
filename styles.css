@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    font-family: Times New Roman, sans-serif;
+    background: #F5F5DC;
+    color: #2F4F4F;
+}
+
+h1, h2 {
+    font-family: Western, serif;
+    color: #FFD700;
+}
+
+a {
+    color: #8B4513;
+}
+
+section {
+    padding: 3rem;
+}
