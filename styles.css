@@ -1,11 +1,11 @@
 body {
     margin: 0;
-    font-family: Times New Roman, sans-serif;
+    font-family: Times New Roman;
     background: #F5F5DC;
     color: #2F4F4F;
 }
 h1, h2 {
-    font-family: Western, serif;
+    font-family: Western;
     color: #FFD700;
 }
 a {
