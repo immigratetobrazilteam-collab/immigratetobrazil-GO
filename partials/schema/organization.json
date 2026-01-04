@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Immigrate to Goi\u00e1s",
+  "description": "Goi\u00e1s is a Brazilian state in the Central-West region, with capital Goi\u00e2nia, known for its plateaus, national parks like Chapada dos Veadeiros and Emas, hot springs in Caldas Novas, colonial architecture in Goi\u00e1s Velho, and economy based on agriculture (soy, sugarcane, tomatoes) and mining (nickel, gold).",
+  "keywords": "Goi\u00e1s, Goi\u00e2nia, Chapada dos Veadeiros, Caldas Novas, agriculture, national parks, Sertanejo music",
+  "url": "https://immigratetobrazil.com/go/",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "Goi\u00e1s",
+    "addressCountry": "BR"
+  },
+  "sameAs": [
+    "https://goias.gov.br/",
+    "http://www.al.go.gov.br/",
+    "http://www.tjgo.jus.br/"
+  ]
+}
