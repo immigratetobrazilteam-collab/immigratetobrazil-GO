@@ -1,0 +1,93 @@
+{
+    "persona": {
+        "label": "Central Plains Farmer",
+        "tone": "Rural, expansive, productive",
+        "visual_intensity": "low",
+        "risk_tolerance": "conservative"
+    },
+    "tokens": {
+        "colors": {
+            "primary": "#059669",
+            "secondary": "#047857",
+            "accent": "#34d399",
+            "bg": "#ecfdf5",
+            "text": "#065f46",
+            "hover": "#065f46",
+            "active": "#064e3b",
+            "focus": "#059669",
+            "success": "#38a169",
+            "error": "#e53e3e",
+            "warning": "#d69e2e",
+            "info": "#3182ce",
+            "neutral": "#d1fae5",
+            "link": "#047857",
+            "border": "#6ee7b7",
+            "surface": "#d1fae5",
+            "gradient_bg": "linear-gradient(to bottom, #ecfdf5, #d1fae5)"
+        },
+        "typography": {
+            "primary_font": "'Source Serif Pro', system-ui, sans-serif",
+            "base_size": "16px",
+            "line_height": "1.55",
+            "heading_sizes": [
+                "2.5rem",
+                "2.1rem",
+                "1.8rem",
+                "1.5rem",
+                "1.3rem",
+                "1.1rem"
+            ]
+        },
+        "spacing": {
+            "xs": "4px",
+            "s": "8px",
+            "m": "16px",
+            "l": "32px",
+            "xl": "48px",
+            "xxl": "64px"
+        },
+        "borders": {
+            "radius": "6px"
+        },
+        "shadows": {
+            "low": "0 3px 6px rgba(5,150,105,0.05)",
+            "medium": "0 8px 16px rgba(5,150,105,0.1)"
+        },
+        "motion": {
+            "timing": "0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94)"
+        },
+        "breakpoints": {
+            "tablet": "800px",
+            "desktop": "1200px"
+        },
+        "animations": {
+            "duration_base": 0.3,
+            "ease_default": "power1.inOut",
+            "intensity_mod": 0.8,
+            "risk_ease": "ease-in",
+            "mobile_mod": 0.6
+        }
+    },
+    "page_customizations": {
+        "home": {
+            "hero_bg": "var(--color-surface)",
+            "cta_color": "var(--color-accent)",
+            "section_border": "var(--color-border)"
+        },
+        "about": {
+            "intro_text": "var(--color-text)",
+            "section_border": "var(--color-border)",
+            "hero_bg": "var(--color-neutral)"
+        },
+        "services": {
+            "overview_bg": "var(--color-surface)",
+            "item_accent": "var(--color-accent)",
+            "list_color": "var(--color-info)"
+        },
+        "contact": {
+            "form_bg": "var(--color-surface)",
+            "submit_btn": "var(--color-primary)",
+            "input_border": "var(--color-border)"
+        }
+    }
+}
